@@ -1,5 +1,7 @@
 # 🐬 Dolphin Explorer
 
+![Dolphin Explorer Banner](public/image.png)
+
 An interactive and visually immersive dolphin information website built using **Next.js, TypeScript, Tailwind CSS, shadcn/ui, and GSAP**.
 
 This project was created as part of a beginner-friendly exploration of **AI-assisted web development**, where modern development tools, prompt engineering, and vibe coding techniques were used to transform ideas into a fully functional website.
